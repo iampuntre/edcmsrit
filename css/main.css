@@ -937,6 +937,7 @@ ul.nostyle i {
   -webkit-box-shadow: none;
 }
 
+<<<<<<< HEAD
 
 /* Navbar */
 
@@ -964,4 +965,59 @@ ul.nostyle i {
 
 #meet-team .row{
     margin:20px 0;
+}
+body {
+    font-size : 18px;
+    
+}
+
+#about .column-title {
+margin-top:30px;
+}
+
+#about {
+margin:0px 0 0px 0;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.navbar-brand {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    font-size: 1em;
+    line-height: 40px;
 }
