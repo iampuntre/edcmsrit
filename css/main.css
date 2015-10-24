@@ -936,3 +936,17 @@ ul.nostyle i {
   box-shadow: none;
   -webkit-box-shadow: none;
 }
+
+body {
+    font-size : 18px;
+    
+}
+
+#about .column-title {
+margin-top:30px;
+}
+
+#about {
+margin:0px 0 0px 0;
+    
+}
