@@ -938,8 +938,6 @@ ul.nostyle i {
 }
 
 
-
-
 /* Navbar */
 
 .navbar-brand {
@@ -950,3 +948,20 @@ ul.nostyle i {
     line-height: 50px;
 }
 
+
+ ul {
+    list-style-type: none;
+
+}
+
+ li {
+    text-transform: capitalize;
+}
+
+.team-image .img-responsive {
+    margin: 20px auto 40px auto;
+}
+
+#meet-team .row{
+    margin:20px 0;
+}
