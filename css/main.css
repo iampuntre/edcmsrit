@@ -416,7 +416,7 @@ ul.nostyle i {
   margin: -15px;
 }
 #portfolio .portfolio-item {
-  width: 24.9%;
+  width: 100%; /*New*/
   float: left;
   padding: 15px;
   -webkit-box-sizing: border-box;
@@ -1016,8 +1016,21 @@ margin:0px 0 0px 0;
 
 
 .navbar-brand {
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Almendra', serif;
     font-weight: 700;
-    font-size: 1em;
+    font-size: 1.8em;
     line-height: 40px;
+}
+
+
+@media screen and (min-width:480px) {
+    #portfolio .portfolio-item {
+        width: 33.3%;
+    }
+}
+
+@media screen and (min-width:767px) {
+     #portfolio .portfolio-item {
+        width: 33.3%;
+    }
 }

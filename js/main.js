@@ -134,7 +134,7 @@ jQuery(function($) {'use strict';
 	smoothScroll.init();
 
 	// portfolio filter
-	$(window).load(function(){'use strict';
+	/*$(window).load(function(){'use strict';
 		var $portfolio_selectors = $('.portfolio-filter >li>a');
 		var $portfolio = $('.portfolio-items');
 		$portfolio.isotope({
@@ -150,7 +150,7 @@ jQuery(function($) {'use strict';
 			return false;
 		});
 	});
-
+*/
 	$(document).ready(function() {
 		//Animated Progress
 		$('.progress-bar').bind('inview', function(event, visible, visiblePartX, visiblePartY) {
