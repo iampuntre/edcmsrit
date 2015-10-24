@@ -980,11 +980,27 @@ margin:0px 0 0px 0;
 
 }
 
+#blog {
+      background-image: url("../images/blog/giftly.png");
+} 
 
+#blog .btn-xl {
+font-size: 1.8em;
+}
 
+#meet-team {
+    
+    background: #20222E url("../images/blog/pattern.png") no-repeat scroll 0px 0px / cover;
+    color: #FFF;
+    
 
+}
 
-
+#meet-team .section-title,
+#meet-team .column-title{
+    color:#fff;
+    text-shadow: #777 5px 5px 5px;
+}
 
 
 
