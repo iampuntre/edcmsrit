@@ -1193,3 +1193,38 @@ font-size: 1.8em;
 .grid-item--height4 { height: 360px; }
 
 */
+
+
+
+
+.thumbnail h3 {
+    padding-top : 10px;
+}
+
+.thumbnail.column-title {
+  margin-top: 0;
+  padding-bottom: 10px;
+  padding-top: 10px;
+  border-bottom: 1px solid #eee;
+  margin-bottom: 10px;
+  position: relative;
+}
+thumbnail.column-title:after {
+  content: " ";
+  position: absolute;
+  bottom: -1px;
+  left: 0;
+  width: 40%;
+  border-bottom: 1px solid #45aed6;
+}
+
+.and-much-more {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    font-style: italic;
+    font-size: 2.5em;
+    color:#777;
+    text-align: center;
+    padding:20px;
+    margin-bottom: 25px;
+}
