@@ -535,7 +535,7 @@ ul.nostyle i {
   margin-top: 10px;
 }
 #about {
-  padding: 100px 0;
+  padding: 50px 0;
 }
 #work-process {
   padding: 100px 0 50px;
@@ -1209,6 +1209,14 @@ font-size: 1.8em;
   margin-bottom: 10px;
   position: relative;
 }
+
+
+#activities {
+    padding-top:50px;
+}
+
+
+
 thumbnail.column-title:after {
   content: " ";
   position: absolute;
